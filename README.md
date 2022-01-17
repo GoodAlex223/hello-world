@@ -8,3 +8,9 @@ New line added
 ## Subheader
 
 New line added on local machine
+
+New instructions:
+
+1. Some instruction 1
+2. Some instruction 2
+3. Some instruction 3
